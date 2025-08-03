@@ -56,5 +56,8 @@ Tenho foco em criar soluções práticas para o dia a dia do suporte técnico, a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenu21&layout=compact&theme=tokyonight)
 
 ---
+### 🌐 Meu Portfólio de Desenhos  
+Confira meus trabalhos visuais em: [https://felipenu21.github.io/nunes-desenhos/](https://felipenu21.github.io/nunes-desenhos/)
+
 
 > 🎯 *"Tecnologia é mais do que ferramentas — é solução, automação e proteção."*
