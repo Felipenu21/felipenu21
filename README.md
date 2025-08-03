@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Felipe Nunes
+# 👋 Olá! Sou Felipe Nunes
 
 🔧 **Profissional de Suporte Técnico** | 🛡️ **Estudante de Cibersegurança e Pentest**  
 💡 Apaixonado por automação, redes e segurança da informação
@@ -36,6 +36,11 @@ Tenho foco em criar soluções práticas para o dia a dia do suporte técnico, a
 
 ---
 
+### 🌐 Meu Portfólio de Desenhos  
+Confira meus trabalhos visuais em: [https://felipenu21.github.io/nunes-desenhos/](https://felipenu21.github.io/nunes-desenhos/)
+
+---
+
 ### 📈 Estou estudando:
 - Python para automação e segurança ofensiva
 - Active Directory, GPO, hardening e auditoria em redes Windows
@@ -52,12 +57,9 @@ Tenho foco em criar soluções práticas para o dia a dia do suporte técnico, a
 
 ### 📊 Estatísticas e linguagens
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipenu21&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenu21&layout=compact&theme=tokyonight)
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipenu21&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipenu21&layout=compact&theme=tokyonight)
 
 ---
-### 🌐 Meu Portfólio de Desenhos  
-Confira meus trabalhos visuais em: [https://felipenu21.github.io/nunes-desenhos/](https://felipenu21.github.io/nunes-desenhos/)
-
 
 > 🎯 *"Tecnologia é mais do que ferramentas — é solução, automação e proteção."*
