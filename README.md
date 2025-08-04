@@ -35,6 +35,24 @@ Tenho foco em criar soluções práticas para o dia a dia do suporte técnico, a
 - 📁 Painéis de estudo com Obsidian + Notion, organizados por tags
 
 ---
+## 📦 Instalador
+
+👉 Baixe o instalador clicando aqui:  
+**[⬇️ Download do Instalador EXE](https://github.com/Felipenu21/painel-suporte-tecnico3/releases/latest/download/instalador_nunes.exe)**
+
+---
+
+## 🧰 Funcionalidades do App
+
+- Acesso rápido às ferramentas administrativas do Windows
+- Verificação de segurança com Windows Defender
+- Backup automático de pastas importantes
+- Painel protegido por senha
+- Logs das ações realizadas
+- Atalhos do CMD, PowerShell e Executar
+- Tutoriais de redes, suporte e cibersegurança
+- Geração de certificado simbólico de estudo
+- Interface escura e moderna
 
 ### 🌐 Meu Portfólio de Desenhos  
 Confira meus trabalhos visuais em: [https://felipenu21.github.io/nunes-desenhos/](https://felipenu21.github.io/nunes-desenhos/)
