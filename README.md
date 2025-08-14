@@ -1,4 +1,5 @@
 # 👋 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=00BFFF&lines=Olá,+sou+Felipe+Nunes)
 
 🔧 **Profissional de Suporte Técnico** | 🛡️ **Estudante de Cibersegurança e Pentest**  
