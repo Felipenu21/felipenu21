@@ -1,6 +1,6 @@
 <!-- Topo Animado -->
 # 👋 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&width=600&duration=3000&color=00BFFF&lines=Olá,+seja+bem-vindo!+Sou+Felipe+Nunes)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&width=600&duration=3000&color=00BFFF&lines=Olá,+seja+bem-vindo!+Sou+Felipe)
 
 🔧 **Profissional de Suporte Técnico** | 🛡️ **Estudante de Cibersegurança e Pentest**  
 💡 Apaixonado por automação, redes e segurança da informação  
