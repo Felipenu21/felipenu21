@@ -25,7 +25,7 @@ Sou tecnólogo em **Sistemas para Internet**, pós-graduado em **Ciência de Dad
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=powershell&logoColor=white)
 ![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows&logoColor=white)
 
-**Progresso de Skills:**  
+**Progresso de Skills (opcional visual):**  
 - Python: ██████████ 95%  
 - PowerShell: █████████ 85%  
 - CMD: █████████ 85%  
@@ -68,15 +68,8 @@ Confira meus trabalhos visuais: [Nunes Desenhos](https://felipenu21.github.io/nu
 ---
 
 ## 📊 Estatísticas GitHub
-
-### 📈 Overview
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipenu21&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&include_all_commits=true)
-
-### 🏆 Top Linguagens
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipenu21&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipenu21&layout=compact&theme=tokyonight)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Felipenu21&theme=tokyonight)
 
 ---
 
