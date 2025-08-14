@@ -1,5 +1,6 @@
 # 👋 
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=00BFFF&lines=Olá,+sou+Felipe+Nunes)
 
 🔧 **Profissional de Suporte Técnico** | 🛡️ **Estudante de Cibersegurança e Pentest**  
@@ -68,10 +69,16 @@ Confira meus trabalhos visuais: [Nunes Desenhos](https://felipenu21.github.io/nu
 
 ---
 
-## 📊 Estatísticas e Linguagens
+## 📊 Estatísticas GitHub
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipenu21&show_icons=true&theme=tokyonight)  
+### 📈 Overview
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipenu21&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&include_all_commits=true)
+
+### 🏆 Top Linguagens
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipenu21&layout=compact&theme=tokyonight)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Felipenu21&theme=tokyonight)
 
 ---
 
