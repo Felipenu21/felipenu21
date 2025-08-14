@@ -1,12 +1,13 @@
+<!-- Topo Animado -->
 # 👋 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=00BFFF&lines=Olá,+sou+Felipe+Nunes)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&width=600&duration=3000&color=00BFFF&lines=Olá,+seja+bem-vindo!+Sou+Felipe+Nunes)
 
 🔧 **Profissional de Suporte Técnico** | 🛡️ **Estudante de Cibersegurança e Pentest**  
 💡 Apaixonado por automação, redes e segurança da informação  
 
-Sou tecnólogo em **Sistemas para Internet**, pós-graduado em **Ciência de Dados**, atualmente cursando o **4º semestre de Análise e Desenvolvimento de Sistemas** e uma **pós-graduação em Cibersegurança e Segurança da Informação**.
-
 ---
+
+<div style="background-color:#f0f8ff;padding:15px;border-radius:10px">
 
 ## 🎓 Formação Acadêmica
 - 🎓 Tecnólogo em **Sistemas para Internet**  
@@ -14,7 +15,11 @@ Sou tecnólogo em **Sistemas para Internet**, pós-graduado em **Ciência de Dad
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas – 4º semestre**  
 - 🛡️ Pós-graduação em **Cibersegurança e Segurança da Informação** *(em andamento)*  
 
+</div>
+
 ---
+
+<div style="background-color:#fff8dc;padding:15px;border-radius:10px">
 
 ## 🛠️ Habilidades Técnicas
 
@@ -32,7 +37,11 @@ Sou tecnólogo em **Sistemas para Internet**, pós-graduado em **Ciência de Dad
 - HTML/CSS: ████████ 75%  
 - Redes & Pentest: ███████ 70%  
 
+</div>
+
 ---
+
+<div style="background-color:#f0fff0;padding:15px;border-radius:10px">
 
 ## 🚀 Projetos em Destaque
 - 🧰 **Menu Interativo PowerShell GUI** – Interface gráfica para suporte técnico  
@@ -40,17 +49,29 @@ Sou tecnólogo em **Sistemas para Internet**, pós-graduado em **Ciência de Dad
 - 🧪 **Scripts de Laboratório AD e Rede Interna** – Ambiente de teste para pentest interno  
 - 💬 **Integração Telegram/WhatsApp** – Alertas e notificações automatizadas  
 
+</div>
+
 ---
+
+<div style="background-color:#fff0f5;padding:15px;border-radius:10px">
 
 ## 📦 Instalador
 [⬇️ Baixe o Instalador EXE](https://github.com/Felipenu21/painel-suporte-tecnico3/releases/latest/download/instalador_nunes.exe)
 
+</div>
+
 ---
+
+<div style="background-color:#f5f5dc;padding:15px;border-radius:10px">
 
 ## 🌐 Portfólio de Desenhos  
 Confira meus trabalhos visuais: [Nunes Desenhos](https://felipenu21.github.io/nunes-desenhos/)
 
+</div>
+
 ---
+
+<div style="background-color:#e6f7ff;padding:15px;border-radius:10px">
 
 ## 📈 Estudos Atuais
 - Python para automação e segurança ofensiva  
@@ -59,11 +80,17 @@ Confira meus trabalhos visuais: [Nunes Desenhos](https://felipenu21.github.io/nu
 - Exploração com Metasploit, msfvenom e engenharia social  
 - Monitoramento e análise de tráfego com Wireshark  
 
+</div>
+
 ---
+
+<div style="background-color:#fffacd;padding:15px;border-radius:10px">
 
 ## 📫 Contato
 - 🔗 LinkedIn: [Felipe Nunes](https://www.linkedin.com/in/felipe-nunes-222a58304/)  
 - 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5511994444752)
+
+</div>
 
 ---
 
